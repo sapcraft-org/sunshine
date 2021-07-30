@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/sapcraft-org/sunshine"><img src="./system/images/sunshine.png"></a>
+  <a href="https://github.com/sapcraft-org/sunshine"><img src="./commands/images/sunshine.png"></a>
   <br>
   sunshine Discord Bot
   <br>
