@@ -11,7 +11,7 @@
 
 <div align=center>
 
-  <a href="https://discord.gg/WcWT98sWvX">
+  <a href="https://discord.gg/CtfPmbb6Rk">
     <img src="https://discordapp.com/api/guilds/709992782252474429/widget.png?style=shield" alt="shield.png">
   </a>
 
@@ -41,4 +41,4 @@
 
 ## About
 
-sunshine is one of the high defiency music bot with customized filters system feel free to use this [this](https://discord.com/api/oauth2/authorize?client_id=870480753379655731&permissions=174012747552&scope=bot) link! Also, you can join the official [sunshine Support Server](https://discord.gg/6dtx3z2fnN) for all questions, suggestions, and assistance!
+sunshine is one of the high defiency music bot with customized filters system feel free to use this [this](https://discord.com/api/oauth2/authorize?client_id=870480753379655731&permissions=174012747552&scope=bot) link! Also, you can join the official [sunshine Support Server](https://discord.gg/CtfPmbb6Rk)all questions, suggestions, and assistance
